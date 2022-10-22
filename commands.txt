@@ -1,0 +1,4 @@
+-D -> dependencia de desarrollo
+
+//Ejecutar el servidor
+npm run dev
